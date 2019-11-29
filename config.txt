@@ -1,0 +1,11 @@
+cell delimeter: ';'
+inner delimeter: '|'
+go left: '<'
+go right: '>'
+stay here: '*'
+start: 'first' # if here is 'first', then start state will be first state in MT
+accept: 'Z'
+reject: 'Y'
+blank: 'e'
+same: '~'
+showStrip: 'True'

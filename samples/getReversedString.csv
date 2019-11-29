@@ -1,0 +1,12 @@
+﻿;e;0;1
+A;e|G|<;e|B|>;e|C|>
+B;0|D|<;0|B|>;1|B|>
+C;1|D|<;0|C|>;1|C|>
+D;e|G|<;e|E|<;e|F|<
+E;0|A|>;0|E|<;1|E|<
+F;1|A|>;0|F|<;1|F|<
+G;e|Finish|>;e|ShiftB0|>;e|ShiftB1|>
+ShiftB0;0|ShiftC|<;;
+ShiftB1;1|ShiftC|<;;
+ShiftC;e|G|<;;
+Finish;~|Finish|>;~|Z|*;~|Z|*
